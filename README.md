@@ -35,7 +35,6 @@ This tool:
 
 Run the CLI:
 
-```bash
 python cli.py
 
 > 647-555-0199
@@ -45,7 +44,9 @@ Plan: NANP
 Location: Toronto, ON (Canada)
 ⚠ Country code assumed (NANP)
 
-Area Code Data
+---
+
+## Area Code Data
 
 Area-code location data is stored in a separate JSON file:
 
@@ -55,8 +56,10 @@ area_codes.json
   "city": "Vancouver",
   "region": "BC",
   "country": "Canada" }
+  
+---
 
-Limitations
+## Limitations
 
 Only supports North American phone numbers (NANP)
 
