@@ -1,0 +1,37 @@
+{
+  "416": {
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  "647": {
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  "905": {
+    "city": "Greater Toronto Area",
+    "region": "ON",
+    "country": "Canada"
+  },
+  "437": {
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  "415": {
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA"
+  },
+  "212": {
+    "city": "New York City",
+    "region": "NY",
+    "country": "USA"
+  },
+  "213": {
+    "city": "Los Angeles",
+    "region": "CA",
+    "country": "USA"
+  }
+}
